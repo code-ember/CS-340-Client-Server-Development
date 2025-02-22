@@ -1,4 +1,4 @@
-## CS-340 Client Server Development
+## Client Server Development
 
 ### How do you write programs that are maintainable, readable, and adaptable?
 I write programs that are maintainable, readable, and adaptable by creating solutions that work well together. This means following best practices for code structure, using meaningful variable names, writing clear and concise comments, and ensuring that my code is modular and reusable.
