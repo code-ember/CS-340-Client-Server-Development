@@ -32,3 +32,5 @@ Computer scientists solve and identify complex problems using advanced technolog
 Projects like this can help a company locate important information quickly by:
 - **Database Integration**: Efficiently managing and retrieving data.
 - **Dashboard Design**: Providing clear and intuitive interfaces for data visualization and decision-making.
+
+## CS-340
